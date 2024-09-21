@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'main'
+      - 'week-1'
 
 jobs:
   build-and-push:
